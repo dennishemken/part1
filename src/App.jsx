@@ -8,6 +8,7 @@ const Statistics = (props) => {
       </div>
     )
   }
+  
   return (
     <div>
       <table>
